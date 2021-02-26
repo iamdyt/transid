@@ -1,0 +1,17 @@
+{
+    "name": "iamdyt/transid",
+    "description": "A simple library to generate a transaction reference ids",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iamdyt",
+            "email": "olanlokunlanre@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"TransId\\": "src/transid/"}
+    },
+    "require": {}
+}
