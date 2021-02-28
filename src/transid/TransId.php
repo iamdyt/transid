@@ -1,6 +1,6 @@
 <?php
 
-    namespace TransId;
+    namespace Iamdyt\TransId;
 
     class GenerateID{
         
